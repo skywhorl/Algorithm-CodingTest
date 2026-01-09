@@ -1,5 +1,5 @@
 # 삼각형의 완성조건(1)
-## [LV.0 - 120889](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=csharp)
+## [Lv.0 - 120889](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=csharp)
 
 ### 문제 관련
 - 가장 큰 변 < 다른 두 변의 합 : 삼각형의 조건
