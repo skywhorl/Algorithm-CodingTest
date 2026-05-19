@@ -11,7 +11,8 @@
 
 - **[Programmers/](./Programmers/)** — 프로그래머스 풀이 본체
   - `Level0/` — 입문 (61개)
-  - `Level1/` — Lv1 (56개+)
+  - `Level1/` — Lv1 (56개)
+  - `Level2/` — Lv2 (10개)
 - **[Weekly-Solved/](./Weekly-Solved/)** — 주차별 학습 기록
 - **[학습 노트 정리/](./학습%20노트%20정리/)** — 자료형, 알고리즘 등 정리 노트
 - **[SUBMIT_FORM.md](./SUBMIT_FORM.md)** — 풀이 양식 정의
@@ -35,7 +36,7 @@
 
 [@WLBLaz](https://github.com/WhiteLinkBlaze)와 함께 문제를 정하고 풀고 있습니다.
 
-가장 최근: [14주차 →](./Weekly-Solved/14_260406.md)
+가장 최근: [16주차 →](./Weekly-Solved/16_260420.md)
 
 ## 📚 학습 노트
 
@@ -49,5 +50,6 @@
 ---
 
 **진행 현황** _(2026.04 기준)_
-- Programmers Lv0: 61/61 ✅
-- Programmers Lv1: 56+ (진행 중)
+- Lv0: 61개 완료 (1~7주차)
+- Lv1: 56개 완료 (8~14주차)
+- Lv2: 10개 (15주차~ 진행 중)
