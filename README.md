@@ -1,7 +1,7 @@
 # Algorithm-CodingTest
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![Programmers](https://img.shields.io/badge/Programmers-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_Level1-00C73C?style=for-the-badge)](https://school.programmers.co.kr/)
+[![Programmers](https://img.shields.io/badge/Programmers-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_Level2-00C73C?style=for-the-badge)](https://school.programmers.co.kr/)
 
 > Unity 개발자 취업을 위한 코딩 테스트 풀이 모음
 
@@ -36,7 +36,7 @@
 
 [@WLBLaz](https://github.com/WhiteLinkBlaze)와 함께 문제를 정하고 풀고 있습니다.
 
-가장 최근: [16주차 →](./Weekly-Solved/16_260420.md)
+가장 최근: [17주차 →](./Weekly-Solved/17_260504.md)
 
 ## 📚 학습 노트
 
@@ -52,4 +52,4 @@
 **진행 현황** _(2026.04 기준)_
 - Lv0: 61개 완료 (1~7주차)
 - Lv1: 56개 완료 (8~14주차)
-- Lv2: 10개 (15주차~ 진행 중)
+- Lv2: 15개 (15주차~ 진행 중)
